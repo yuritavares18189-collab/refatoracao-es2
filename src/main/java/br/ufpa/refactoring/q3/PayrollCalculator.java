@@ -2,8 +2,6 @@ package br.ufpa.refactoring.q3;
 
 import java.util.List;
 
-// Q3 - Replace Temp with Query
-// bruto, hora extra, imposto e vale agora sao metodos
 public class PayrollCalculator {
 
     public double monthlyNetSalary(Employee employee) {

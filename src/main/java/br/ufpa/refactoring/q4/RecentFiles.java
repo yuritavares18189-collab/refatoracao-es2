@@ -3,8 +3,6 @@ package br.ufpa.refactoring.q4;
 import java.util.ArrayList;
 import java.util.List;
 
-// Q4 - Replace Inheritance with Delegation
-// antes estendia ArrayList. agora a lista fica guardada aqui dentro
 public class RecentFiles {
 
     private final int limit;

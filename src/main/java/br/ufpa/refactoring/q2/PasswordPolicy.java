@@ -1,7 +1,5 @@
 package br.ufpa.refactoring.q2;
 
-// Q2 - Inline Method
-// as checagens pequenas foram para dentro do isValid
 public class PasswordPolicy {
 
     public boolean isValid(String password) {

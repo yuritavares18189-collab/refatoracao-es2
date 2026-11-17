@@ -1,7 +1,5 @@
 package br.ufpa.refactoring.q5;
 
-// Q5 - Collapse Hierarchy
-// a subclasse VIP so chamava o super e nao mudava nada, entao ela saiu
 public class PasswordResetNotification extends Notification {
     private final String customerName;
     public PasswordResetNotification(String customerName) { this.customerName = customerName; }

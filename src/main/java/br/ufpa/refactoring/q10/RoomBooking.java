@@ -1,7 +1,5 @@
 package br.ufpa.refactoring.q10;
 
-// Q10 - Introduce Parameter Object
-// sala, horario e pedido substituem a lista grande de parametros
 public class RoomBooking {
 
     public double quote(BookingRequest request) {

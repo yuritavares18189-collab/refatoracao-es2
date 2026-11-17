@@ -3,8 +3,6 @@ package br.ufpa.refactoring.q1;
 import java.time.LocalDate;
 import java.util.List;
 
-// Q1 - Extract Method
-// separei o e-mail em pedacos: saudacao, itens, frete, desconto, totais e endereco
 public class PurchaseEmailService {
 
     public String buildEmail(Purchase purchase) {

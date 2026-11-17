@@ -1,7 +1,5 @@
 package br.ufpa.refactoring.q6;
 
-// Q6 - Replace Conditional with Polymorphism
-// tirei o switch: cada plano tem o calculo dele
 public class BillingService {
 
     public enum Plan {

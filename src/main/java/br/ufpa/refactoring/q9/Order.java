@@ -1,7 +1,5 @@
 package br.ufpa.refactoring.q9;
 
-// Q9 - Move Method
-// a conta do desconto foi para o Customer. o pedido so usa o resultado
 public class Order {
 
     private final Customer customer;

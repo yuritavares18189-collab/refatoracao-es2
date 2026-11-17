@@ -17,7 +17,7 @@ class NotificationTest {
 
     @Test
     void refactorGoal_collapseHierarchy_removeRedundantSubclass() {
-        // VIPPasswordResetNotification foi removida porque nao mudava o texto.
-        // o teste de cima usa direto PasswordResetNotification.
+        // TODO: após refatorar, VIPPasswordResetNotification deve deixar de existir (ou ganhar comportamento real).
+        // O comportamento de renderização deve permanecer.
     }
 }

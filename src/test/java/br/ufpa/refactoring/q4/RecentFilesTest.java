@@ -23,6 +23,6 @@ class RecentFilesTest {
 
     @Test
     void refactorGoal_replaceInheritanceWithDelegation() {
-        // RecentFiles nao estende mais ArrayList. a lista fica dentro da classe.
+        // TODO: após refatorar, RecentFiles NÃO deve estender ArrayList (verificar em code review).
     }
 }

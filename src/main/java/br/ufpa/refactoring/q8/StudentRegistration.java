@@ -1,7 +1,5 @@
 package br.ufpa.refactoring.q8;
 
-// Q8 - Extract Class
-// contato e endereco foram para classes proprias
 public class StudentRegistration {
 
     private final ContactInfo contact;
